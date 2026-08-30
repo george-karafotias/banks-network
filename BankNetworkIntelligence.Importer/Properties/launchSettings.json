@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankNetworkIntelligence.Importer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Data\\hebic_2026_q2.csv\" \"2026-Q2\""
+    }
+  }
+}

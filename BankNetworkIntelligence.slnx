@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankNetworkIntelligence.Core/BankNetworkIntelligence.Core.csproj" />
+  <Project Path="BankNetworkIntelligence.Importer/BankNetworkIntelligence.Importer.csproj" />
+</Solution>
